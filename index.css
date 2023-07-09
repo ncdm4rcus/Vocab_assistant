@@ -1,0 +1,14 @@
+.header {
+    padding: 5px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 60px;
+    line-height: 0.25px;
+    outline-color: #2d9c86;
+    outline-style: auto;
+    -webkit-text-stroke: 1px #2d9c86;
+    
+    
+}
+/* overflow: property của chữ bị tràn ra khỏi hộp */
